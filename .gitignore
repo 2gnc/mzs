@@ -1,0 +1,7 @@
+﻿#.gitignore
+#site-materials.odt
+#site-materials-table.ods
+
+*#
+*~
+~*
